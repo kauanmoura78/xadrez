@@ -1,0 +1,6 @@
+{
+  "name": "ChessMaster AI",
+  "description": "Plataforma de xadrez estilo Chess.com com múltiplos oponentes de IA com personalidades únicas, sistema de ranking Elo, regras completas de xadrez e avaliação em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
